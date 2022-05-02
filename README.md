@@ -29,7 +29,7 @@ Prepare a microSD (32GB or below capacity is preferred).
 Make sure it is in FAT32 format.
 
 ### Step 2 - Getting the Update File
-Get the update files (`app.zbo` for v1 / `appa.zbo` for v2 / `CN_CAN.bin` for Mark 3.0) ready. Place them under the root of the microSD. Eject it from the card reader afterwards.
+Get the update files (`app.zbo` for v1 / `appa.zbo` for v2 / `CX_CAN.bin` for Mark 3.0) ready. Place them under the root of the microSD. Eject it from the card reader afterwards.
 
 ### Step 3 - Flashing the Update
 Disconnect the control unit from power.
