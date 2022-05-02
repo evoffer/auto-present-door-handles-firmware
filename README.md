@@ -7,20 +7,20 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 | --- | --- | --- | --- |
 | v1 | 1 DECODER + 4 ECU | 20220220 | / |
 | v2 | 1 DECODER & ECU | 20220218 | 20220218 |
-| MARK 3.0 | 1 DECODER + 4 ECU | Coming Soon | Coming Soon |
+| MARK 3.0 | 1 DECODER + 4 ECU | 20220301 | 20220301 |
 
 ```
-Last Update: 2022-02-21
+Last Update: 2022-05-03
 ```
 
 ## [Model Y Auto Present Door Handles](https://evoffer.com/product/model-y-auto-present-door-handles/)
 | Version | Hardware | Version |
 | --- | --- | --- |
 | v2 | 1 DECODER & ECU | 20220218 |
-| MARK 3.0 | 1 DECODER + 4 ECU | Coming Soon |
+| MARK 3.0 | 1 DECODER + 4 ECU | 20220301 |
 
 ```
-Last Update: 2022-02-21
+Last Update: 2022-05-03
 ```
 
 ## Software Update
@@ -29,7 +29,7 @@ Prepare a microSD (32GB or below capacity is preferred).
 Make sure it is in FAT32 format.
 
 ### Step 2 - Getting the Update File
-Get the update files (`app.zbo` for v1 or `appa.zbo` for v2) ready. Place them under the root of the microSD. Eject it from the card reader afterwards.
+Get the update files (`app.zbo` for v1 / `appa.zbo` for v2 / `CN_CAN.bin` for Mark 3.0) ready. Place them under the root of the microSD. Eject it from the card reader afterwards.
 
 ### Step 3 - Flashing the Update
 Disconnect the control unit from power.
