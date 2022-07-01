@@ -8,9 +8,10 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 | v1 | 1 DECODER + 4 ECU | 20220220 | / |
 | v2 | 1 DECODER & ECU | 20220218 | 20220218 |
 | MARK 3.0 | 1 DECODER + 4 ECU | 20220301 | 20220301 |
+| MARK 3.5 | 1 DECODER & ECU | 20220603 | 20220603 |
 
 ```
-Last Update: 2022-05-03
+Last Update: 2022-07-01
 ```
 
 ## [Model Y Auto Present Door Handles](https://evoffer.com/product/model-y-auto-present-door-handles/)
@@ -18,10 +19,10 @@ Last Update: 2022-05-03
 | --- | --- | --- |
 | v2 | 1 DECODER & ECU | 20220218 |
 | MARK 3.0 | 1 DECODER + 4 ECU | 20220301 |
-| MARK 3.5 | 1 DECODER & ECU | 20220511 |
+| MARK 3.5 | 1 DECODER & ECU | 20220603 |
 
 ```
-Last Update: 2022-05-22
+Last Update: 2022-07-01
 ```
 
 ## Software Update
