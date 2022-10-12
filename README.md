@@ -29,7 +29,7 @@ Last Update: 2022-10-11
 | Version | Hardware | Version |
 | --- | --- | --- |
 | MARK 1.0 | 1 DECODER + 4 ECU (Green) | 221011 |
-| MARK 1.1 | 1 INTEGRATED ECU (Red) | 221011 |
+| MARK 1.5 | 1 INTEGRATED ECU (Red) | 221011 |
 ```
 Last Update: 2022-10-11
 ```
