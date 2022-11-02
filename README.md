@@ -28,7 +28,7 @@ Last Update: 2022-10-23
 ## [Model 3/Y Auto Present Door Handles (RGB Edition)](https://evoffer.com/product/model-3-auto-present-door-handles-rgb-edition/)
 | Version | Hardware | Version |
 | --- | --- | --- |
-| MARK 1.0 | 1 INTEGRATED ECU (Green) | 221011 |
+| MARK 1.0 | 1 INTEGRATED ECU (Blue) | 221011 |
 | MARK 1.5 | 1 INTEGRATED ECU (Red) | 221011 |
 ```
 Last Update: 2022-10-11
