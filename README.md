@@ -6,23 +6,23 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 | Version | Hardware | Variant A | Variant B |
 | --- | --- | --- | --- |
 | v1 | 1 DECODER + 4 ECU (Black) | 221011 | / |
-| v2 | 1 INTEGRATED ECU (Black) | 221011 | 221023 |
+| v2 | 1 INTEGRATED ECU (Black) | 221128 | 221128 |
 | MARK 3.0 | 1 DECODER + 4 ECU (Black) | 220301 | 220301 |
 | MARK 3.5 | 1 INTEGRATED ECU (Black) | 221015 | 221023 |
 
 ```
-Last Update: 2022-10-23
+Last Update: 2022-11-28
 ```
 
 ## [Model Y Auto Present Door Handles](https://evoffer.com/product/model-y-auto-present-door-handles/)
 | Version | Hardware | Version |
 | --- | --- | --- |
-| v2 | 1 INTEGRATED ECU (Black) | 221023 |
+| v2 | 1 INTEGRATED ECU (Black) | 221128 |
 | MARK 3.0 | 1 DECODER + 4 ECU (Black) | 220301 |
 | MARK 3.5 | 1 INTEGRATED ECU (Black) | 221023 |
 
 ```
-Last Update: 2022-10-23
+Last Update: 2022-11-28
 ```
 
 ## [Model 3/Y Auto Present Door Handles (RGB Edition)](https://evoffer.com/product/model-3-auto-present-door-handles-rgb-edition/)
