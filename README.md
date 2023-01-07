@@ -29,9 +29,9 @@ Last Update: 2022-11-28
 | Version | Hardware | Version |
 | --- | --- | --- |
 | MARK 1.0 | 1 INTEGRATED ECU (Blue) | 221011 |
-| MARK 1.5 | 1 INTEGRATED ECU (Red) | 221011 |
+| MARK 1.5 | 1 INTEGRATED ECU (Red) | 230108 |
 ```
-Last Update: 2022-10-11
+Last Update: 2023-01-08
 ```
 
 ## Software Update
