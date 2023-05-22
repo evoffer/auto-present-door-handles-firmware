@@ -19,7 +19,7 @@ Last Update: 2022-11-28
 | --- | --- | --- | --- |
 | v2 | 1 INTEGRATED ECU (Black) | `Appa.zbo` | 221128 |
 | MARK 3.0 | 1 DECODER + 4 ECU (Black) | `CX_CAN.bin` | 220301 |
-| MARK 3.5 | 1 INTEGRATED ECU (Black) | `Appp.zbo` | 221023 |
+| MARK 3.5 | 1 INTEGRATED ECU (Black) | `App.zbo` | 221023 |
 
 ```
 Last Update: 2022-11-28
