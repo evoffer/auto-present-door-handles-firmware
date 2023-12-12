@@ -30,9 +30,9 @@ Last Update: 2022-11-28
 | --- | --- | --- | --- |
 | MARK 1.0 | 1 INTEGRATED ECU (Blue) | `Appb.zbo` | 221011 |
 | MARK 1.5 | 1 INTEGRATED ECU (Red) | `DOOR.bin` | 230108 |
-| MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 230515 |
+| MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 231121 |
 ```
-Last Update: 2023-05-15
+Last Update: 2023-12-13
 ```
 
 ## Software Update
