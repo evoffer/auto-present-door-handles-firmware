@@ -2,7 +2,7 @@
 
 Please contact Tech Support if you are not sure which firmware you should flash.
 
-## [Model 3 Auto Present Door Handles](https://evoffer.com/product/model-3-auto-present-door-handles/)
+## [Model 3/Y Auto Present Door Handles (Legacy Version)]
 | Version | Hardware | File Name | Variant A | Variant B |
 | --- | --- | --- | --- | --- |
 | v1 | 1 DECODER + 4 ECU (Black) | `App.zbo` | 221011 | / |
@@ -14,27 +14,24 @@ Please contact Tech Support if you are not sure which firmware you should flash.
 Last Update: 2022-11-28
 ```
 
-## [Model Y Auto Present Door Handles](https://evoffer.com/product/model-y-auto-present-door-handles/)
-| Version | Hardware | File Name | Version |
-| --- | --- | --- | --- |
-| v2 | 1 INTEGRATED ECU (Black) | `Appa.zbo` | 221128 |
-| MARK 3.0 | 1 DECODER + 4 ECU (Black) | `CX_CAN.bin` | 220301 |
-| MARK 3.5 | 1 INTEGRATED ECU (Black) | `App.zbo` | 221023 |
-
-```
-Last Update: 2022-11-28
-```
-
-## [Model 3/Y Auto Present Door Handles (RGB Edition)](https://evoffer.com/product/model-3-auto-present-door-handles-rgb-edition/)
-| Version | Hardware | File Name | Version |
+## [Model 3/Y Auto Present Door Handles with Light Bar](https://evoffer.com/product/model-3-y-auto-present-door-handles-with-light-bar/)
+| Version | Hardware | File Name | FW Version |
 | --- | --- | --- | --- |
 | MARK 1.0 | 1 INTEGRATED ECU (Blue) | `Appb.zbo` | 221011 |
 | MARK 1.5 | 1 INTEGRATED ECU (Red) | `DOOR.bin` | 230108 |
-| MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 231121 |
-| MARK 2.1 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 240111 |
-| MARK 2.3 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 240926 |
+| MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250321 |
+| MARK 2.1 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250403 |
+| MARK 3.0 | 1 WIRELESS CONNECTED ECU (Black) | `CX_CAN.bin` | 240926 |
 ```
-Last Update: 2024-11-06
+Last Update: 2025-05-12
+```
+
+## [Model 3/Y Auto Present Door Handles with OEM Handle](https://evoffer.com/product/model-3-y-auto-present-door-handles-with-oem-style/)
+| Version | Hardware | File Name | FW Version |
+| --- | --- | --- | --- |
+| MARK 3.0 | 1 WIRELESS CONNECTED ECU (Black) | `CX_CAN.bin` | 240926 |
+```
+Last Update: 2025-05-12
 ```
 
 ## Software Update
