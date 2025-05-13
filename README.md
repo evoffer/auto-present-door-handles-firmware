@@ -21,7 +21,7 @@ Last Update: 2022-11-28
 | MARK 1.5 | 1 INTEGRATED ECU (Red) | `DOOR.bin` | 250317 |
 | MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250321 |
 | MARK 2.1 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250403 |
-| MARK 3.0 | 1 WIRELESS CONNECTED ECU (Black) | `CX_CAN.bin` | 240926 |
+| MARK 3.0 | 1 WIRELESS CONNECTED ECU (Black) | `CX_CAN.bin` | 250105 |
 ```
 Last Update: 2025-05-13
 ```
