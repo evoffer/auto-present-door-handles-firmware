@@ -18,12 +18,12 @@ Last Update: 2022-11-28
 | Version | Hardware | File Name | FW Version |
 | --- | --- | --- | --- |
 | MARK 1.0 | 1 INTEGRATED ECU (Blue) | `Appb.zbo` | 221011 |
-| MARK 1.5 | 1 INTEGRATED ECU (Red) | `DOOR.bin` | 230108 |
+| MARK 1.5 | 1 INTEGRATED ECU (Red) | `DOOR.bin` | 250317 |
 | MARK 2.0 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250321 |
 | MARK 2.1 | 1 INTEGRATED ECU (Black) | `CX_CAN.bin` | 250403 |
 | MARK 3.0 | 1 WIRELESS CONNECTED ECU (Black) | `CX_CAN.bin` | 240926 |
 ```
-Last Update: 2025-05-12
+Last Update: 2025-05-13
 ```
 
 ## [Model 3/Y Auto Present Door Handles with OEM Handle](https://evoffer.com/product/model-3-y-auto-present-door-handles-with-oem-style/)
